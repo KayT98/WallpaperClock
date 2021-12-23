@@ -1,0 +1,19 @@
+﻿♦Little guide to use my application, it is very simple♦
+
+1. In case of background images do not change based on the time of day, click "Refresh" to restart the application.
+
+2. Escape == Close application. Down arrow == minimize application.
+
+3. "Reminder" is a simple reminder for you to make notes and it will remind you when the time comes.
+
+4. You can restart the application by double click on the form. When you minimized the application and want to open it back up, double-click on the icon or click the notification.
+
+5. You can check weather of all countries, be sure to type the correct city names. You can either press enter key or the "Request" button.
+
+6. The form has a countdown for Thanksgiving, Christmas and New Year. It will play the music on these days.
+
+7. Click the dialogue box for the suprise.
+
+8. "Remember?" checkbox will save your note inside the textbox, if you don't want to save the note to your desktop.
+
+☺ Have any other questions or you want me to change or add something, let me know. Enjoy! ☺
