@@ -1,6 +1,6 @@
 # WallpaperClock
 
-• Last year Capstone project.
+• University Capstone project.
 
 • A clock that changes wallpaper according to time of day.
 
