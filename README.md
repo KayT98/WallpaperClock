@@ -6,7 +6,7 @@
 
 • Just for fun and practices.
 
-• Any suggestions, tips, ideas on how to improve the projects will be greatly appreciated 
+• Any suggestions, tips, ideas on how to improve the project will be greatly appreciated 
 
 ![clock](https://user-images.githubusercontent.com/71146091/223927703-9b5cfc67-90b8-4037-b7d7-ef115385bb2e.png)
 
